@@ -1,7 +1,7 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1229,93,403
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,91,7,28
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,88,173,30
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1229,96,407
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,92,7,28
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,88,173,31
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,84,9,34
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,49,14,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,46,5,2

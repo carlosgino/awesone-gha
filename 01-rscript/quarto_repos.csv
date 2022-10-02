@@ -1,8 +1,8 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1277,101,409
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1280,102,413
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,94,7,29
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,185,40
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,85,10,34
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,90,185,39
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,85,10,35
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,51,16,18
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,47,6,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,42,10,7
@@ -16,7 +16,7 @@ quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of se
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,6,1,1
 quarto-docusaurus,https://github.com/quarto-dev/quarto-docusaurus,NA,4,0,1
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,0,0
-quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,1,0
+quarto-ojs-runtime,https://github.com/quarto-dev/quarto-ojs-runtime,A runtime for quarto's support of ObservableHQ's reactive Javascript,2,1,1
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,1,0,1
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,1,0,4
 quarto-repo-template,https://github.com/quarto-dev/quarto-repo-template,"Repository template with readme styling, issue templates, etc",0,0,0

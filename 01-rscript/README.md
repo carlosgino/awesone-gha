@@ -1,12 +1,12 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Nov 03 2022.
+Updated with GitHub Actions in Nov 04 2022.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                         | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  1413|   117|         463|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   104|   224|          18|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  1416|   117|         466|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   104|   225|          19|
 |quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                        |   101|    10|          40|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                           |    88|    11|          40|
 |quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |    61|    18|          20|
@@ -24,6 +24,7 @@ Updated with GitHub Actions in Nov 03 2022.
 |example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                              |     2|     0|           0|
 |quarto-ojs-runtime                               |https://github.com/quarto-dev/quarto-ojs-runtime                               |A runtime for quarto's support of ObservableHQ's reactive Javascript                |     2|     1|           2|
 |quarto-release-bundles                           |https://github.com/quarto-dev/quarto-release-bundles                           |Chocolatey package for Quarto                                                       |     1|     0|           1|
+|quarto                                           |https://github.com/quarto-dev/quarto                                           |                                                                                    |     0|     0|           0|
 |quarto-repo-template                             |https://github.com/quarto-dev/quarto-repo-template                             |Repository template with readme styling, issue templates, etc                       |     0|     0|           0|
 |Quarto-Pub                                       |https://github.com/quarto-dev/Quarto-Pub                                       |Quarto Pub                                                                          |     0|     0|           2|
 |quarto-pub-subdomain-site                        |https://github.com/quarto-dev/quarto-pub-subdomain-site                        |The [subdomain].quarto.pub website                                                  |     0|     0|           0|

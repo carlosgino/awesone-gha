@@ -1,13 +1,13 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1442,120,487
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,105,226,20
-quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,103,10,43
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1452,120,488
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,105,227,20
+quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,103,10,44
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,90,11,41
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,65,18,20
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,54,7,2
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,43,9,6
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,23,0,2
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,15,10,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,10,0
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,11,0,5
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,7,1,1

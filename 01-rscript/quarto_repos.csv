@@ -1,18 +1,18 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1531,127,501
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,107,246,7
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,1533,127,506
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,107,250,10
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,107,10,45
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,90,11,45
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,69,19,21
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,90,11,44
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,71,19,21
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,57,7,3
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,43,10,6
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,27,0,2
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,29,0,2
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,16,11,0
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,11,0,5
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,8,0,0
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,1,2
+netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,7,1,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,7,1,1
-netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,6,1,4
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,6,0,0
 quarto,https://github.com/quarto-dev/quarto,NA,3,2,0
 gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,0,4

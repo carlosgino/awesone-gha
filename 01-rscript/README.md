@@ -1,25 +1,25 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Jan 23 2023.
+Updated with GitHub Actions in Jan 24 2023.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                         | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  1787|   145|         601|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   123|   304|          16|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  1792|   146|         608|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   123|   306|          16|
 |quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                        |   108|    11|           0|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                           |    93|    11|          21|
 |quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |    88|    23|          21|
 |quarto-emacs                                     |https://github.com/quarto-dev/quarto-emacs                                     |An emacs mode for quarto: https://quarto.org                                        |    68|     9|           4|
 |quarto-vim                                       |https://github.com/quarto-dev/quarto-vim                                       |Rmarkdown support for vim                                                           |    46|    10|           6|
-|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |    44|     0|           2|
-|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |    24|     2|          56|
+|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |    44|     0|           3|
+|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |    24|     2|          59|
 |quarto-gallery                                   |https://github.com/quarto-dev/quarto-gallery                                   |                                                                                    |    18|    15|           0|
 |quarto-julia                                     |https://github.com/quarto-dev/quarto-julia                                     |Julia interface to quarto-cli                                                       |    12|     0|           6|
 |quarto-sublime                                   |https://github.com/quarto-dev/quarto-sublime                                   |                                                                                    |     9|     1|           1|
 |quarto-python                                    |https://github.com/quarto-dev/quarto-python                                    |Python interface to quarto-cli                                                      |     9|     0|           0|
+|netlify-plugin-quarto                            |https://github.com/quarto-dev/netlify-plugin-quarto                            |                                                                                    |     8|     1|           4|
 |quarto-shortcodes                                |https://github.com/quarto-dev/quarto-shortcodes                                |                                                                                    |     8|     2|           2|
-|netlify-plugin-quarto                            |https://github.com/quarto-dev/netlify-plugin-quarto                            |                                                                                    |     7|     1|           4|
 |quarto-examples                                  |https://github.com/quarto-dev/quarto-examples                                  |A repository of self-contained quarto examples                                      |     6|     0|           0|
 |gridtables                                       |https://github.com/quarto-dev/gridtables                                       |Haskell parser for reStructuredText-style grid tables.                              |     2|     0|           4|
 |example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                              |     2|     0|           0|

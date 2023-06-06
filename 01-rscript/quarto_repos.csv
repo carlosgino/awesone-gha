@@ -1,17 +1,17 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2287,190,834
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,160,440,11
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,124,27,25
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,120,3,3
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2288,191,834
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,160,443,12
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,124,28,25
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,122,3,4
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,13,0
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,106,15,36
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,87,10,6
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,81,6,62
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,82,6,64
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,51,12,5
 quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,27,19,0
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,11,0,0
-netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,9,1,4
+netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,10,1,4
 quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,7,0,1

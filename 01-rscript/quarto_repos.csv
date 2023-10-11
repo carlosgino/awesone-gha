@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2595,222,1021
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2597,223,1019
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,187,532,16
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,158,4,6
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,152,35,28
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,126,12,94
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,112,17,40
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,126,12,95
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,112,17,37
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,110,12,0
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,100,10,9
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,53,11,4

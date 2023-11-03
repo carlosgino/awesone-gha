@@ -1,13 +1,13 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Nov 02 2023.
+Updated with GitHub Actions in Nov 03 2023.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                         | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2650|   226|        1068|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   196|   546|          19|
-|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   165|     6|           9|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2653|   226|        1065|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   196|   548|          20|
+|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   166|     6|           9|
 |quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |   156|    37|          28|
 |quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |   143|    14|         102|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                           |   114|    16|          33|

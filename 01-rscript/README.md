@@ -1,15 +1,15 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Nov 06 2023.
+Updated with GitHub Actions in Nov 07 2023.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                         | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2655|   227|        1068|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   196|   548|          20|
-|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   166|     6|           9|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2659|   227|        1070|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   196|   548|          18|
+|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   167|     6|           9|
 |quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |   156|    37|          28|
-|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |   144|    14|         105|
+|quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |   146|    14|         105|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                           |   115|    16|          32|
 |quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                        |   110|    12|           0|
 |quarto-emacs                                     |https://github.com/quarto-dev/quarto-emacs                                     |An emacs mode for quarto: https://quarto.org                                        |   103|    10|           9|
@@ -26,7 +26,7 @@ Updated with GitHub Actions in Nov 06 2023.
 |gridtables                                       |https://github.com/quarto-dev/gridtables                                       |Haskell parser for reStructuredText-style grid tables.                              |     2|     0|           5|
 |example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                              |     2|     0|           0|
 |quarto-repo-template                             |https://github.com/quarto-dev/quarto-repo-template                             |Repository template with readme styling, issue templates, etc                       |     0|     0|           0|
-|Quarto-Pub                                       |https://github.com/quarto-dev/Quarto-Pub                                       |Quarto Pub                                                                          |     0|     0|           2|
+|Quarto-Pub                                       |https://github.com/quarto-dev/Quarto-Pub                                       |Quarto Pub                                                                          |     0|     0|           3|
 |quarto-pub-subdomain-site                        |https://github.com/quarto-dev/quarto-pub-subdomain-site                        |The [subdomain].quarto.pub website                                                  |     0|     0|           0|
 |external-asg017-unofficial-observablehq-compiler |https://github.com/quarto-dev/external-asg017-unofficial-observablehq-compiler |A fork of @asg017's unofficial compiler for Observable notebook syntax              |     0|     1|           0|
 |external-kpdecker-jsdiff                         |https://github.com/quarto-dev/external-kpdecker-jsdiff                         |A javascript text differencing implementation.                                      |     0|     0|           0|

@@ -1,18 +1,18 @@
 # Repositories from quarto-dev
 Made by [Bea Milz](https://twitter.com/beamilz).
-Updated with GitHub Actions in Nov 22 2023.
+Updated with GitHub Actions in Nov 23 2023.
 <hr> 
 
 |name                                             |url                                                                            |description                                                                         | stars| forks| open_issues|
 |:------------------------------------------------|:------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|-----:|-----:|-----------:|
-|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2698|   234|        1086|
-|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   198|   555|          23|
-|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   174|     6|           5|
-|quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |   163|    36|          28|
+|quarto-cli                                       |https://github.com/quarto-dev/quarto-cli                                       |Open-source scientific and technical publishing system built on Pandoc.             |  2705|   234|        1079|
+|quarto-web                                       |https://github.com/quarto-dev/quarto-web                                       |Quarto website                                                                      |   198|   555|          22|
+|quarto-nvim                                      |https://github.com/quarto-dev/quarto-nvim                                      |Quarto mode for Neovim                                                              |   175|     6|           5|
+|quarto-actions                                   |https://github.com/quarto-dev/quarto-actions                                   |                                                                                    |   164|    36|          28|
 |quarto                                           |https://github.com/quarto-dev/quarto                                           |Quarto open-source scientific and technical publishing system                       |   161|    14|         107|
 |quarto-r                                         |https://github.com/quarto-dev/quarto-r                                         |R interface to quarto-cli                                                           |   115|    17|          33|
 |quarto-vscode                                    |https://github.com/quarto-dev/quarto-vscode                                    |Quarto extension for VS Code                                                        |   111|    12|           0|
-|quarto-emacs                                     |https://github.com/quarto-dev/quarto-emacs                                     |An emacs mode for quarto: https://quarto.org                                        |   105|    10|           9|
+|quarto-emacs                                     |https://github.com/quarto-dev/quarto-emacs                                     |An emacs mode for quarto: https://quarto.org                                        |   106|    10|           9|
 |quarto-vim                                       |https://github.com/quarto-dev/quarto-vim                                       |Rmarkdown support for vim                                                           |    54|    11|           4|
 |quarto-gallery                                   |https://github.com/quarto-dev/quarto-gallery                                   |                                                                                    |    30|    20|           0|
 |quarto-julia                                     |https://github.com/quarto-dev/quarto-julia                                     |Julia interface to quarto-cli                                                       |    16|     0|           6|
@@ -24,7 +24,7 @@ Updated with GitHub Actions in Nov 22 2023.
 |quarto-shortcodes                                |https://github.com/quarto-dev/quarto-shortcodes                                |                                                                                    |     8|     2|           2|
 |quarto-release-bundles                           |https://github.com/quarto-dev/quarto-release-bundles                           |Chocolatey package for Quarto                                                       |     2|     0|           2|
 |gridtables                                       |https://github.com/quarto-dev/gridtables                                       |Haskell parser for reStructuredText-style grid tables.                              |     2|     0|           5|
-|example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                              |     2|     0|           0|
+|example-project-quarto-netlify-plugin            |https://github.com/quarto-dev/example-project-quarto-netlify-plugin            |A minimal Quarto project using Quarto's Netlify plugin                              |     2|     1|           0|
 |vscode-markdown-tm-grammar                       |https://github.com/quarto-dev/vscode-markdown-tm-grammar                       |VS Code built-in markdown extension's Textmate grammar                              |     1|     0|           0|
 |quarto-pub-subdomain-site                        |https://github.com/quarto-dev/quarto-pub-subdomain-site                        |The [subdomain].quarto.pub website                                                  |     1|     0|           0|
 |quarto-repo-template                             |https://github.com/quarto-dev/quarto-repo-template                             |Repository template with readme styling, issue templates, etc                       |     1|     0|           0|

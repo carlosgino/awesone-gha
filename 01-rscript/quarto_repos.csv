@@ -1,19 +1,19 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2742,238,949
-quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,202,563,22
-quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,187,6,3
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,165,15,109
-quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,165,38,29
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2757,241,918
+quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,202,565,25
+quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,197,6,3
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,167,15,108
+quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,167,38,29
 quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,115,17,34
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
-quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,106,10,10
+quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,106,10,11
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
-quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,30,20,0
+quarto-gallery,https://github.com/quarto-dev/quarto-gallery,NA,31,20,0
 quarto-julia,https://github.com/quarto-dev/quarto-julia,Julia interface to quarto-cli,16,0,6
 quarto-python,https://github.com/quarto-dev/quarto-python,Python interface to quarto-cli,13,0,1
 netlify-plugin-quarto,https://github.com/quarto-dev/netlify-plugin-quarto,NA,11,1,5
 jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto JupyterLab Extension,11,1,0
-quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,9,2,2
+quarto-sublime,https://github.com/quarto-dev/quarto-sublime,NA,10,2,3
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,8,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2

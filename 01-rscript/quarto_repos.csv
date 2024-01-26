@@ -1,10 +1,10 @@
 name,url,description,stars,forks,open_issues
-quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2896,250,956
+quarto-cli,https://github.com/quarto-dev/quarto-cli,Open-source scientific and technical publishing system built on Pandoc.,2899,250,944
 quarto-nvim,https://github.com/quarto-dev/quarto-nvim,Quarto mode for Neovim,222,9,5
 quarto-web,https://github.com/quarto-dev/quarto-web,Quarto website,216,600,23
-quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,193,15,122
+quarto,https://github.com/quarto-dev/quarto,Quarto open-source scientific and technical publishing system,193,15,123
 quarto-actions,https://github.com/quarto-dev/quarto-actions,NA,176,40,29
-quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,119,17,27
+quarto-r,https://github.com/quarto-dev/quarto-r,R interface to quarto-cli,120,17,25
 quarto-emacs,https://github.com/quarto-dev/quarto-emacs,An emacs mode for quarto: https://quarto.org,111,11,13
 quarto-vscode,https://github.com/quarto-dev/quarto-vscode,Quarto extension for VS Code,111,12,0
 quarto-vim,https://github.com/quarto-dev/quarto-vim,Rmarkdown support for vim,54,11,4
@@ -17,7 +17,7 @@ jupyterlab-quarto,https://github.com/quarto-dev/jupyterlab-quarto,Quarto Jupyter
 quarto-examples,https://github.com/quarto-dev/quarto-examples,A repository of self-contained quarto examples,9,1,1
 quarto-shortcodes,https://github.com/quarto-dev/quarto-shortcodes,NA,8,2,2
 quarto-release-bundles,https://github.com/quarto-dev/quarto-release-bundles,Chocolatey package for Quarto,2,0,2
-gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,6
+gridtables,https://github.com/quarto-dev/gridtables,Haskell parser for reStructuredText-style grid tables.,2,1,5
 example-project-quarto-netlify-plugin,https://github.com/quarto-dev/example-project-quarto-netlify-plugin,A minimal Quarto project using Quarto's Netlify plugin,2,1,0
 quarto-cli-pypi,https://github.com/quarto-dev/quarto-cli-pypi,Produces `quarto-cli` python package on PyPi,1,0,0
 vscode-markdown-tm-grammar,https://github.com/quarto-dev/vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar,1,0,0
